@@ -11,12 +11,17 @@
 
 ---
 
-<!-- ### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="" />][instagram]
 
---- -->
+---
+
+[twitter]: https://twitter.com/prasanthpkdev
+[instagram]: https://www.instagram.com/prasanthofficialdev/
+[linkedin]: https://www.linkedin.com/in/prasanth-p
+
 
 
