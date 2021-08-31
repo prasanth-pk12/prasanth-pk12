@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Twitter" width="28px" src="https://github.com/prasanth023/prasanth023/blob/main/img/twitter-logo.png?raw=true" />][twitter]
 [<img align="left" alt="LinkedIn" width="28px" src="https://github.com/prasanth023/prasanth023/blob/main/img/linkedin-logo.png?raw=true" />][linkedin]
-[<img align="left" alt="Instagram" width="28px" src="https://github.com/prasanth023/prasanth023/blob/main/img/instagram-logo.png?raw=true" />][instagram]
+[<img align="left" alt="Instagram" width="28px" src="https://github.com/prasanth023/prasanth023/blob/main/img/instagram-logo.png?raw=true" />][instagram] <br />
 
 
 ---
