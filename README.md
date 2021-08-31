@@ -13,9 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://github.com/prasanth023/prasanth023/blob/main/img/instagram-logo.png?raw=true" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="![image](https://user-images.githubusercontent.com/87668644/131499908-54c37d7a-8298-44ed-8647-bd8de4068fb0.png)
+" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/prasanth023/prasanth023/blob/main/img/linkedin-logo.png?raw=true" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/prasanth023/prasanth023/blob/main/img/instagram-logo.png?raw=true" />][instagram]
 
 ---
 
