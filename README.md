@@ -11,6 +11,10 @@
 
 ---
 
+![Alt text](https://github.com/prasanth023/prasanth023/blob/main/img/github.gif?raw=true)
+
+---
+
 ### Connect with me:
 
 [twitter]: https://twitter.com/prasanthpkdev
