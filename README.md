@@ -8,12 +8,10 @@
 - 🥅 2021 Goals: Learn JavaScript
 - ⚡ Fun fact: I love to code and play cricket
 - 😄 Pronouns: He/ Him
-
 <!-- --- -->
-
 ![Alt text](https://github.com/prasanth023/prasanth023/blob/main/img/github.gif?raw=true)
 
-<!-- --- -->
+---
 
 ### Connect with me:
 
