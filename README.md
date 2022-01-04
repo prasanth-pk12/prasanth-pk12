@@ -5,10 +5,8 @@
 - 👨‍💻 I'm Student Of Computer Science
 - 🌱 I’m currently learning Frontend Web Development
 - 🤔 I’m looking for help with career
-- 🥅 2021 Goals: Learn JavaScript
 - ⚡ Fun fact: I love to code and play cricket
 - 😄 Pronouns: He/ Him
-- 
 ---
 ![Alt text](https://github.com/prasanth023/prasanth023/blob/main/img/github.gif?raw=true)
 
