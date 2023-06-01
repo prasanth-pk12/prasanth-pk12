@@ -8,8 +8,8 @@ I'm Prasanth a passionate Full Stack Web Developer with a knack for crafting exc
 
 - 👨‍💻 I'm a Computer Science graduate
 - 📘 I’m currently learning Fullstack Web Development
-- 🤔 I’m looking for help with Outstanding project ideas.
+- 🤔 I’m looking for help with Outstanding project ideas
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: prasanth.perumalr@gmail.com.
+- 📫 How to reach me: prasanth.perumalr@gmail.com
 - 😄 Pronouns: Coder/Programmer
-- ⚡ Fun fact: 💻 Coding aficionado, cricket enthusiast.
+- ⚡ Fun fact: 💻 Coding aficionado, cricket enthusiast
