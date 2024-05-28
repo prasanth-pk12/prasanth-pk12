@@ -5,7 +5,6 @@
 <p align="justify">I'm a Full Stack Web Developer passionate about crafting exceptional web applications. I love exploring new technologies and coding innovative projects.</p>
 
 ### :mailbox: Reach me out!
-
 [![Twitter Badge](https://img.shields.io/badge/-@prasanth__pk12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/prasanth_pk12) [![Mail Badge](https://img.shields.io/badge/-prasanth--pk12-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@prasanth-pk12) [![Linkedin Badge](https://img.shields.io/badge/prasanth--pk12-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanth-pk12/) [![Mail Badge](https://img.shields.io/badge/-@prasanth__pk12-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/prasanth_pk12) [![Mail Badge](https://img.shields.io/badge/-prasanth.perumalr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:prasanth.perumalr@gmail.com)
 
 
@@ -47,8 +46,12 @@
 <a href="#"><img alt="Webpack" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" /></a>&nbsp;
 
 
-#### Github Stats
-![Prasanth's github stats](https://github-readme-stats.vercel.app/api?username=prasanth-pk12&count_private=true&theme=tokyonight)&nbsp;&nbsp;
-![Prasanth's github stats](https://github-readme-streak-stats.herokuapp.com/?user=prasanth-pk12&theme=tokyonight)
+### Github Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanth-pk12&theme=tokyonight" alt="Prasanth's GitHub Stats" width="400" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-pk12&theme=tokyonight" alt="Prasanth's GitHub Streak Stats" width="400" height="160">
+</p>
+
+
 
   <!-- Reference: https://github.com/ipenywis/ipenywis/blob/master/README.md-->
