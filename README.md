@@ -19,31 +19,32 @@
 
 
 ### Top Technologies
-<a href="#"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></a>&nbsp;
-<a href="#"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></a>&nbsp;
-<a href="#"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /></a>&nbsp;
-<a href="#"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" /></a>&nbsp;
-<a href="#"><img alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /></a>&nbsp;
-<a href="#"><img alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" /></a>&nbsp;
-<a href="#"><img alt="Figma" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" /></a>&nbsp;
-<a href="#"><img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /></a>&nbsp;
-<a href="#"><img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /></a>&nbsp;
-<a href="#"><img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></a>&nbsp;
-<a href="#"><img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /></a>&nbsp;
-<a href="#"><img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /></a>&nbsp;
-<a href="#"><img alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" /></a>&nbsp;
-<a href="#"><img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /></a>&nbsp;
-<a href="#"><img alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" /></a>&nbsp;
-<a href="#"><img alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" /></a>&nbsp;
-<a href="#"><img alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" /></a>&nbsp;
-<a href="#"><img alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" /></a>&nbsp;
-<a href="#"><img alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /></a>&nbsp;
-<a href="#"><img alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>&nbsp;
-<a href="#"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>&nbsp;
-<a href="#"><img alt="AWS EC2" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /></a>&nbsp;
-<a href="#"><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /></a>&nbsp;
-<a href="#"><img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" /></a>&nbsp;
-<a href="#"><img alt="Webpack" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"/></a>&nbsp;
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" /></a>&nbsp;
+<a href="https://tailwindcss.com/"><img alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" /></a>&nbsp;
+<a href="https://sass-lang.com/"><img alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" /></a>&nbsp;
+<a href="https://www.figma.com/"><img alt="Figma" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" /></a>&nbsp;
+<a href="https://reactjs.org/"><img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" /></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /></a>&nbsp;
+<a href="https://www.mysql.com/"><img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></a>&nbsp;
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /></a>&nbsp;
+<a href="https://www.mongodb.com/"><img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /></a>&nbsp;
+<a href="https://www.php.net/"><img alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" /></a>&nbsp;
+<a href="https://nodejs.org/"><img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /></a>&nbsp;
+<a href="https://expressjs.com/"><img alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" /></a>&nbsp;
+<a href="https://laravel.com/"><img alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" /></a>&nbsp;
+<a href="https://www.djangoproject.com/"><img alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" /></a>&nbsp;
+<a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" /></a>&nbsp;
+<a href="https://www.cplusplus.com/"><img alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" /></a>&nbsp;
+<a href="https://www.java.com/"><img alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>&nbsp;
+<a href="https://www.python.org/"><img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>&nbsp;
+<a href="https://aws.amazon.com/ec2/"><img alt="AWS EC2" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /></a>&nbsp;
+<a href="https://www.docker.com/"><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" /></a>&nbsp;
+<a href="https://www.nginx.com/"><img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" /></a>&nbsp;
+<a href="https://webpack.js.org/"><img alt="Webpack" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" /></a>&nbsp;
+
 
 
 ### Github Stats
