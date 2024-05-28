@@ -17,32 +17,86 @@
 
 #### Top Technologies
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#) 
-[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#) 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](#) 
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#) 
-[![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](#) 
-[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=white)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#) 
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#) 
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#) 
-[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#) 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#) 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#) 
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white)](#) 
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-fff?style=flat&logo=express&logoColor=black)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](#) 
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](#)
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](#)
-[![AWS EC2 Badge](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)](#) 
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](#) 
-[![Webpack Badge](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)](#)
-[![nginx Badge](https://img.shields.io/badge/-nginx-269539?style=flat&logo=nginx&logoColor=white)](#)
- 
+
+<p align="left">
+  <a href="https://www.w3.org/html/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="50" height="40"/>
+  </a>
+    <a href="https://spring.io/projects/spring-boot" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/ec2/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws ec2" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" style="text-decoration: none; margin:8px;" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+
+</p>
+
  
  
 
