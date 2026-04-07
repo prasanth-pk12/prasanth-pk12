@@ -49,7 +49,7 @@
 
 ### Github Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanth-pk12&theme=tokyonight" alt="Prasanth's GitHub Stats" width="400" height="160">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prasanth-pk12&theme=tokyonight" alt="Prasanth's GitHub Stats" width="400" height="160"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth-pk12&theme=tokyonight" alt="Prasanth's GitHub Streak Stats" width="400" height="160">
 </p>
 
